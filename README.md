@@ -23,12 +23,6 @@ python3 -m robot testcase/web/herokuapp.robot
 python3 -m robot testcase/api/get_user.robot
 ```
 ### command ข้อ 4
-```
-python3 -m robot testcase/mobile/minimal/minimal.robot
-```
-### file path ข้อ 6
-programmaing/ข้อ6.py
-
 ## Variable
 * ${appium_server}	http://localhost:4723/wd/hub
 * ${platform_name}	Android
@@ -36,4 +30,9 @@ programmaing/ข้อ6.py
 * ${device_name}	Pixel 9 Pro
 * $${app_name}     ${CURDIR}/../../../resource/mobile/app-release.apk
 * ${automation_name}	Uiautomator2
+```
+python3 -m robot testcase/mobile/minimal/minimal.robot
+```
+### file path ข้อ 6
+programmaing/ข้อ6.py
 
