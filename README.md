@@ -12,7 +12,8 @@
 * robotframework-requests==0.9.7
 * obotframework-seleniumlibrary==6.6.1
 
-
+### file path ข้อ 1
+programmaing/ข้อ1.py
 ### command ข้อ 2
 ```
 python3 -m robot testcase/web/herokuapp.robot
@@ -25,6 +26,8 @@ python3 -m robot testcase/api/get_user.robot
 ```
 python3 -m robot testcase/mobile/minimal/minimal.robot
 ```
+### file path ข้อ 6
+programmaing/ข้อ6.py
 
 ## Variable
 * ${appium_server}	http://localhost:4723/wd/hub
