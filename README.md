@@ -1,7 +1,7 @@
 # ttb_automation_chokcharin
 
-## dependencies
-[Test Results](https://drive.google.com/drive/folders/17KRvvSED2p-Gai3iW348xBgD4gWjZhCK?usp=sharing)
+## Test Results
+[Link Google Drive](https://drive.google.com/drive/folders/17KRvvSED2p-Gai3iW348xBgD4gWjZhCK?usp=sharing)
 
 ## dependencies
 * python==3.12
